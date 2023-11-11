@@ -1,0 +1,18 @@
+{
+    "id": "titlescreenfire",
+    "name": "Title Screen Fire",
+    "author": "Genir",
+    "utility": "true",
+    "version": { "major":"0", "minor": "1", "patch": "0" },
+    "description": "A mod making title screen ships fire their weapons.",
+    "gameVersion": "0.96a-RC10",
+    "jars":["jars/TitleScreenFire.jar"],
+    "modPlugin":"com.genir.titlescreenfire.TitleScreenFireBasePlugin",
+    "dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+            "version" : "2.8"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TitleScreenFire">
+    <output-path>$PROJECT_DIR$/jars</output-path>
+    <root id="archive" name="TitleScreenFire.jar">
+      <element id="module-output" name="TitleScreenFire" />
+    </root>
+  </artifact>
+</component>
